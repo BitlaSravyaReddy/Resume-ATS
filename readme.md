@@ -1,4 +1,4 @@
-Resume ATS is a tool that checks the percentile how much the resume matching the job description using Gemini Pro.
+Resume ATS is a tool that checks the percentile how much the resume matches the job description using Gemini Pro.
 
 ![Image](https://github.com/user-attachments/assets/fc0206f9-7b68-43af-bd9e-b1b3d34233bb)
 
