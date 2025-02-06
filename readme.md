@@ -39,27 +39,23 @@ pip install -r requirements.txt
 
 
 
-Setup
+## Setup
 
-Create a .env file
-Add your Google API key: GOOGLE_API_KEY=your_api_key_here
+1. Create a .env file
+   
+Add your Google API key: GOOGLE_API_KEY="your_api_key_here" (use markersuite website to generate API)
 
-Running the App
-bashCopystreamlit run app.py
-How to Use
+3. Running the App
+   
+streamlit run app.py
 
-Paste job description
-Upload resume
-Click "Analyze Resume"
-Review ATS compatibility report
+## How to Use
 
-Technologies
+- Paste job description
+- Upload resume
+- Click "Analyze Resume"
+- Review ATS compatibility report
 
-Streamlit
-Google Gemini AI
-Python
-Matplotlib
-Wordcloud
 
 ## Contributing
 
