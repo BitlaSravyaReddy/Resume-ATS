@@ -27,7 +27,11 @@ A Streamlit-powered web application that helps job seekers optimize their resume
 git clone https://github.com/yourusername/ats-resume-analyzer.git
 cd ats-resume-analyzer
 pip install -r requirements.txt
+```
 
+
+
+## Images
 
 ![Image](https://github.com/user-attachments/assets/d635f16a-1081-4102-b758-563f9c038b9d)
 
