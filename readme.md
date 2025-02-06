@@ -45,7 +45,7 @@ pip install -r requirements.txt
    
 Add your Google API key: GOOGLE_API_KEY="your_api_key_here" (use markersuite website to generate API)
 
-3. Running the App
+2. Running the App
    
 streamlit run app.py
 
