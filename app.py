@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 import os
 import PyPDF2 as pdf
-import docx
+import python-docx
 import json
 import matplotlib.pyplot as plt
 import wordcloud
