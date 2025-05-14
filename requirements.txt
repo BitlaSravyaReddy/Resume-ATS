@@ -2,6 +2,6 @@ streamlit
 google.generativeai
 python-dotenv
 PyPDF2
-docx
+python-docx
 wordcloud
 matplotlib
